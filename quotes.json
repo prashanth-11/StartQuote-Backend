@@ -1,0 +1,186 @@
+{
+    "quotes": [
+        {
+            "id": 1687434541831,
+            "quote": "Our Thoughts Will Decide our JOY",
+            "age": "25",
+            "gender": "female",
+            "createdAt": "2023-06-22T09:30:00Z"
+        },
+        {
+            "id": 1687434541832,
+            "quote": "Our Thoughts Will Decide our JOY",
+            "age": "30",
+            "gender": "male",
+            "createdAt": "2023-06-23T14:45:00Z"
+        },
+        {
+            "id": 1687434541833,
+            "quote": "Our Thoughts Will Decide our JOY",
+            "age": "35",
+            "gender": "female",
+            "createdAt": "2023-06-24T20:15:00Z"
+        },
+        {
+            "id": 1687434541834,
+            "quote": "Ut enim ad minim veniam",
+            "age": "40",
+            "gender": "male",
+            "createdAt": "2023-06-25T11:00:00Z"
+        },
+        {
+            "id": 1687434541835,
+            "quote": "Duis aute irure dolor",
+            "age": "45",
+            "gender": "female",
+            "createdAt": "2023-06-26T16:30:00Z"
+        },
+        {
+            "id": 1687434541836,
+            "quote": "Excepteur sint occaecat cupidatat",
+            "age": "50",
+            "gender": "male",
+            "createdAt": "2023-06-27T08:45:00Z"
+        },
+        {
+            "id": 1687434541837,
+            "quote": "Sunt in culpa qui officia deserunt mollit anim",
+            "age": "55",
+            "gender": "female",
+            "createdAt": "2023-06-28T13:00:00Z"
+        },
+        {
+            "id": 1687434541838,
+            "quote": "Id est laborum et dolorum",
+            "age": "60",
+            "gender": "male",
+            "createdAt": "2023-06-29T17:30:00Z"
+        },
+        {
+            "id": 1687434541839,
+            "quote": "Sed ut perspiciatis unde omnis iste",
+            "age": "65",
+            "gender": "female",
+            "createdAt": "2023-06-30T10:15:00Z"
+        },
+        {
+            "id": 1687434541840,
+            "quote": "Nemo enim ipsam voluptatem quia",
+            "age": "70",
+            "gender": "male",
+            "createdAt": "2023-07-01T15:45:00Z"
+        },
+        {
+            "id": 1687434541841,
+            "quote": "Neque porro quisquam est qui",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-02T20:30:00Z"
+        },
+        {
+            "id": 1687434541842,
+            "quote": "Neque porro quisquam est qui",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-03T15:30:00Z"
+        },
+        {
+            "id": 1687434541843,
+            "quote": "Neque porro quisquam est qui",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-04T15:30:00Z"
+        },
+        {
+            "id": 1687434541844,
+            "quote": "Neque porro quisquam est qui",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-05T15:30:00Z"
+        },
+        {
+            "id": 1687434541845,
+            "quote": "Neque porro quisquam est qui",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-06T15:30:00Z"
+        },
+        {
+            "id": 1687434541846,
+            "quote": "Neque porro quisquam est qui",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-07T15:30:00Z"
+        },
+        {
+            "id": 1687434541847,
+            "quote": "Neque porro quisquam est qui",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-07T15:30:00Z"
+        },
+        {
+            "id": 1687434541848,
+            "quote": "You will face many defeats in life, but never let yourself be defeated.",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-08T15:30:00Z"
+        },
+        {
+            "id": 1687434541849,
+            "quote": "The greatest glory in living lies not in never falling, but in rising every time we fal",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-09T15:30:00Z"
+        },
+        {
+            "id": 1687434541850,
+            "quote": "In the end, it's not the years in your life that count",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-10T15:30:00Z"
+        },
+        {
+            "id": 1687434541851,
+            "quote": "“Opportunities don't happen, you create them.”",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-11T15:30:00Z"
+        },
+        {
+            "id": 1687434541852,
+            "quote": "It is never too late to be what you might have been",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-12T15:30:00Z"
+        },
+        {
+            "id": 1687434541853,
+            "quote": "Even if happiness forgets you a little bit, never completely forget about it.",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-12T15:30:00Z"
+        },
+        {
+            "id": 1687434541854,
+            "quote": "Perpetual optimism is a force multiplier.",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-13T15:30:00Z"
+        },
+        {
+            "id": 1687434541856,
+            "quote": "You're off to great places, today is your day",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-14T15:30:00Z"
+        },
+        {
+            "id": 1687434541857,
+            "quote": "You need an attitude of survive.",
+            "age": "75",
+            "gender": "female",
+            "createdAt": "2023-07-15T15:30:00Z"
+        }
+    ]
+}
